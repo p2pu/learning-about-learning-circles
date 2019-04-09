@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-## Facilator Notes
+## Facilitator Notes
 
 Welcome! 
 
