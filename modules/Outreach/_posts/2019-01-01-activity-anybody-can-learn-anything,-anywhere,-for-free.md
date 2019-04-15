@@ -9,9 +9,7 @@ There are both individual barriers (digital literacy, awareness of opportunities
 
 One way to dig into these barriers to to revise this sentiment to make it more realistic.
 
-https://docs.google.com/presentation/d/e/2PACX-1vTMg_BGf9SAnvkNHdjVdH8rUtZzCgMEzz7zrPlrytm77erh7YA5BnVBvo9VRWZ0Igb_mfR7jrhVNqGN/pub?start=true&loop=true&delayms=5000
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMg_BGf9SAnvkNHdjVdH8rUtZzCgMEzz7zrPlrytm77erh7YA5BnVBvo9VRWZ0Igb_mfR7jrhVNqGN/embed?start=true&loop=true&delayms=5000" frameborder="0" width="792" height="591" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+[Anyone anywhere presentation](https://docs.google.com/presentation/d/e/2PACX-1vTMg_BGf9SAnvkNHdjVdH8rUtZzCgMEzz7zrPlrytm77erh7YA5BnVBvo9VRWZ0Igb_mfR7jrhVNqGN/pub?start=true&loop=true&delayms=5000)
 
 Here’s how you play:
 

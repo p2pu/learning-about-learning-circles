@@ -1,7 +1,7 @@
 ---
-title: "Welcome to  P2PU"
+title: "Welcome to P2PU"
 ---
-# Welcome to  P2PU
+# Welcome to P2PU
 
 Peer 2 Peer University (we mostly say P2PU) is a grassroots organization whose mission is to create alternatives to formal education that are both practical and liberating. Our primary project is called learning circles, which are groups of people who meet in person to learn something together, using free online courses or other learning resources.
 
@@ -12,14 +12,17 @@ Underlying our work is the conviction that learning is a social activity. We bel
 So by convening a group of people who are interested in a similar topic in a learning circle, you’ve got the basis for an open, collaborative learning environment. Learning circles can create a rich learning environment in which everyone simultaneously teaches and learns, acts and observes, speaks and listens. This exposes people to new perspectives, provides an opportunity to develop useful social skills, and allows individuals to achieve something greater than they could have on their own.
 
 Here’s a 2-minute video to help orient you to the P2PU community.
+
 [https://www.youtube.com/watch?v=bQqmIS7WQa8](https://www.youtube.com/watch?v=bQqmIS7WQa8) 
 
 And here are some slides that outline the key components of a learning circle:
+
 [https://docs.google.com/presentation/d/1iN_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit#slide=id.g48b0301b60_0_153](https://docs.google.com/presentation/d/1iN_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit#slide=id.g48b0301b60_0_153) 
 
 Curious about where P2PU gets its name? Look at the pictures below of two different types of computing networks. One of them is a client/server network, and the other is a peer-to-peer network. Can you guess which is which?
 
 ![https://en.wikipedia.org/wiki/Peer-to-peer#/media/File:Server-based-network.svg](https://en.wikipedia.org/wiki/Peer-to-peer#/media/File:Server-based-network.svg)
+
 ![https://en.wikipedia.org/wiki/Peer-to-peer#/media/File:P2P-network.svg](https://en.wikipedia.org/wiki/Peer-to-peer#/media/File:P2P-network.svg)
 
 A client/server network consists of individual nodes (clients), who request services and resources from a centralized server, whereas a peer-to-peer network consists of interconnected nodes (peers), which share resources amongst each other without the use of a centralised administrative system.
