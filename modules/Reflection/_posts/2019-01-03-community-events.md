@@ -8,4 +8,3 @@ P2PU hosts
 - P2PU Gatherings
 - Regional meetups at conferences
 - Community Forum: introductions, FAQ, troubleshooting, articles, news, questions
-

@@ -14,7 +14,7 @@ So by convening a group of people who are interested in a similar topic in a lea
 Here’s a 2-minute video to help orient you to the P2PU community.
 [https://www.youtube.com/watch?v=bQqmIS7WQa8](https://www.youtube.com/watch?v=bQqmIS7WQa8) 
 
-And here are some slides that explain the history of P2PU and learning circles a bit more.
+And here are some slides that outline the key components of a learning circle:
 [https://docs.google.com/presentation/d/1iN_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit#slide=id.g48b0301b60_0_153](https://docs.google.com/presentation/d/1iN_lmDov-xI0J5k4vYFbG4xGL1A-q0DBXdZ-nCfEQhs/edit#slide=id.g48b0301b60_0_153) 
 
 Curious about where P2PU gets its name? Look at the pictures below of two different types of computing networks. One of them is a client/server network, and the other is a peer-to-peer network. Can you guess which is which?

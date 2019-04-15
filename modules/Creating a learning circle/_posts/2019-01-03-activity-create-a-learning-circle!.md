@@ -3,11 +3,13 @@ title: "Activity: Create a learning circle!"
 ---
 # Activity: Create a learning circle!
 
-We have developed a series of open source software tools to help you facilitate a learning circle. You can think of it like a free and simple event management page that is connected to a global community of other people who are doing the same thing. Even if you aren’t sure when or what you want to facilitate, creating a draft learning circle is the best way to understand what this process entails. You can create a learning circle for free at anytime here: [https://learningcircles.p2pu.org/en/studygroup/create/](https://learningcircles.p2pu.org/en/studygroup/create/) 
+We have developed a series of open source software tools to help you facilitate a learning circle. You can think of it like a free and simple event management page that is connected to a global community of other people who are doing the same thing. Even if you aren’t sure when or what you want to facilitate, creating a draft learning circle is the best way to understand what this process entails. 
 
-Once you create a learning circle, you
+You can create a learning circle for free at anytime here: [https://learningcircles.p2pu.org/en/studygroup/create/](https://learningcircles.p2pu.org/en/studygroup/create/) 
 
-we’ll automatically spin up a website for you to promote your learning circle. Here’s some other great things that you can do with the dashboard:
+Once you create a learning circle, we’ll automatically spin up a website for you to promote your learning circle. You can manage your learning circle details at anytime using the P2PU Dashboard.
+
+Here’s some other great things that you can do with the Dashboard:
 - See who has signed up and be able to communicate directly with them.
 - Automatically send a reminder message to participants each week via email or SMS. 
 - Give feedback on a weekly basis that will be shared with your learners, your colleagues (if you’d like), and P2PU.

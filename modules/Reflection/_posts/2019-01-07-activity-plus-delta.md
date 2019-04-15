@@ -3,11 +3,9 @@ title: "Activity: Plus/Delta"
 ---
 # Activity: Plus/Delta
 
-[https://community.p2pu.org/t/weekly-plus-delta-wrap-up-activity/2779](https://community.p2pu.org/t/weekly-plus-delta-wrap-up-activity/2779) 
+As you are well aware by now, learning circles follow a method: check-in, coursework, activity or group discussion, and plus/delta. Checking in and plus/delta are the bookends of a learning circle, and we’ve arrived now at the end.
 
-Learning circles follow a method: check-in, coursework, activity or group discussion, and plus/delta. Checking in and plus/delta are the bookends of a learning circle.
-
-The last 5 minutes of a learning circle are spent by having everyone share one thing that went well today (plus), and one thing that we’d like to change for next week (delta). It’s up to the group to do their best to make sure everybody’s changes can be accommodated next week.
+The last five minutes of a learning circle are spent by having everyone share one thing that went well today (plus), and one thing that we’d like to change for next week (delta). It’s up to the group to do their best to make sure everybody’s changes can be accommodated next week.
 
 Some ideas to consider:
 - Ask instead what they want to work on next time?
