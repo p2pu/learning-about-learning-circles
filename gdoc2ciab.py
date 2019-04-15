@@ -10,8 +10,9 @@ from google.auth.transport.requests import Request
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
 
-# The ID of a sample document.
+# The ID of the google doc with the course content.
 DOCUMENT_ID = '1kEk1FPgjX3gjoueXbodY-5CaEGM9ah69MRmjYbXT7Lo'
+#DOCUMENT_ID = '1x7z1FRJSKf2ABNNXQC41xwd73cU767A6m-9EDGxDMlU'
 
 def get_doc(document_id):
     """Shows basic usage of the Docs API.
@@ -62,10 +63,13 @@ def convert_to_course_outline(document):
     content = document.get('body').get('content')
     content = filter(lambda se: 'paragraph' in se, content)
     modules = []  # [{'title': '', sections: [  ] }]
+    intro = ''
     for se in content:
         paragraph = se['paragraph']
         text = ''
-        for eidx, element in enumerate(paragraph['elements']):
+        elements = paragraph['elements']
+        #elements = filter(lambda e: e.get('textRun','').strip('\n') == '', elements)
+        for eidx, element in enumerate(elements):
             if 'textRun' in element:
                 textRun = element.get('textRun')
                 link = textRun['textStyle'].get('link', {}).get('url')
@@ -75,12 +79,22 @@ def convert_to_course_outline(document):
                 else:
                     text += textContent
 
+        if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_3':
+            text = '# ' + text
+        if 'bullet' in paragraph:
+            # TODO - handle list type, need to lookup document.lists
+            nesting_level = paragraph['bullet'].get('nestingLevel', 0)
+            text = '   '*nesting_level + '- ' + text
+
+        # Split text into sections
         if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_1':
             modules += [{'title': text, 'sections': []}]
             continue 
 
         if len(modules) == 0:
+            intro += text + '\n'
             continue
+
         module = modules[-1]
         if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_2':
             module['sections'] += [{'title': text, 'md': ''}]
@@ -88,16 +102,16 @@ def convert_to_course_outline(document):
 
         if len(module['sections']) == 0:
             continue
+
         section = module['sections'][-1]
-        if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_3':
-            text = '# ' + text
-        if 'bullet' in paragraph:
-            # TODO - handle list type, need to lookup document.lists
-            nesting_level = paragraph['bullet'].get('nestingLevel', 0)
-            text = '   '*nesting_level + '- ' + text
-          
         section['md'] += text + '\n'
-    return modules
+
+    course_outline = {
+        'modules': modules,
+        'title': document.get('title'),
+        'intro': intro,
+    }
+    return course_outline
 
 
 def write_module(title, sections):
@@ -119,12 +133,23 @@ def write_module(title, sections):
             f.write(section['md'])
 
 
+def write_index(text_md):
+    with open('./index.md', 'w') as f:
+        f.write('---\n')
+        f.write(f'layout: index\n')
+        f.write('---\n')
+        f.write(text_md)
+
+
 def write_course(course_outline):
-    for module in course_outline:
+    if course_outline.get('intro'):
+        write_index(course_outline.get('intro'))
+    for module in course_outline.get('modules'):
         write_module(**module)
-    modules = [m['title'] for m in course_outline]
+    modules = [m['title'] for m in course_outline.get('modules')]
     with open('_data/course.yml', 'r') as course_yml:
         course_data = yaml.safe_load(course_yml)
+    course_data['title'] = course_outline.get('title')
     course_data['modules'] = modules
     with open('_data/course.yml', 'w') as course_yml:
         course_yml.write(yaml.dump(course_data))
