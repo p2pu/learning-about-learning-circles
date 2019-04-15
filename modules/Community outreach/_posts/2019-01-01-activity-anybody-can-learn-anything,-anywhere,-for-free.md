@@ -11,6 +11,8 @@ One way to dig into these barriers to to revise this sentiment to make it more r
 
 https://docs.google.com/presentation/d/e/2PACX-1vTMg_BGf9SAnvkNHdjVdH8rUtZzCgMEzz7zrPlrytm77erh7YA5BnVBvo9VRWZ0Igb_mfR7jrhVNqGN/pub?start=true&loop=true&delayms=5000
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMg_BGf9SAnvkNHdjVdH8rUtZzCgMEzz7zrPlrytm77erh7YA5BnVBvo9VRWZ0Igb_mfR7jrhVNqGN/embed?start=true&loop=true&delayms=5000" frameborder="0" width="792" height="591" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 Here’s how you play:
 
 - Open [this Google Slide](https://docs.google.com/presentation/d/1_s0FFtAPG8MHxL8yRFrdxaI22obFrX_ZsONz-sIZJSY/edit#slide=id.g3c793ae459_0_0) and either make a copy or download it as a Powerpoint presentation so you can edit it.

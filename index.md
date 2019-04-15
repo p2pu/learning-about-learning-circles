@@ -1,6 +1,11 @@
 ---
 layout: index
 ---
+Landing page
+Title: Learning about learning circles
+Subtitle: By participating in a learning circle
+Subtitle: From the folks who brought you learning circles
+
 # About the Course
 This is a free online course about learning circles, created by Peer 2 Peer University. The course is divided into six modules, each of which can be explored in as little as 20 minutes, or as long as a few hours. Each module consists of three types of resources:
 - Background materials from P2PU for you to read and watch
@@ -14,6 +19,8 @@ This is an openly-licensed course designed for anybody who is interested in runn
 After completing this course, you should feel comfortable and excited about facilitating a learning circle on a topic of your choice. This means that you will: 
 - Learn about P2PU and the learning circle model 
 - Consider what is needed for learning circles to work effectively in your community
+
+
 
 
 
