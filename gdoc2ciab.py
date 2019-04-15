@@ -11,8 +11,8 @@ from google.auth.transport.requests import Request
 SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
 
 # The ID of the google doc with the course content.
-DOCUMENT_ID = '1kEk1FPgjX3gjoueXbodY-5CaEGM9ah69MRmjYbXT7Lo'
-#DOCUMENT_ID = '1x7z1FRJSKf2ABNNXQC41xwd73cU767A6m-9EDGxDMlU'
+#DOCUMENT_ID = '1kEk1FPgjX3gjoueXbodY-5CaEGM9ah69MRmjYbXT7Lo'
+DOCUMENT_ID = '1x7z1FRJSKf2ABNNXQC41xwd73cU767A6m-9EDGxDMlU'
 
 def get_doc(document_id):
     """Shows basic usage of the Docs API.
@@ -66,6 +66,10 @@ def convert_to_course_outline(document):
     intro = ''
     for se in content:
         paragraph = se['paragraph']
+        page_break = any([True for e in paragraph['elements'] if 'pageBreak' in e])
+        if page_break:
+            # Stop processing the document after the first page break
+            break
         text = ''
         elements = paragraph['elements']
         #elements = filter(lambda e: e.get('textRun','').strip('\n') == '', elements)
