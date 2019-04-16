@@ -3,7 +3,7 @@ title: "Activity: Choose a course"
 ---
 # Activity: Choose a course
 
-As you get ready to choose a course, we’ve reached the point in a program where you will need a P2PU account. People who sign up for learning circles do not need to have a P2PU account, but as a potential facilitator you’ll need one in order to create a learning circle and add new courses to our database.
+As you get ready to choose a course, we’ve reached the point where you will need a P2PU account. Learners who sign up for learning circles do not need to have a P2PU account, but as a facilitator you’ll need one in order to create a learning circle and add new courses to our database.
 
 With a P2PU account you can also post on our [community forum](https://community.p2pu.org/) and receive monthly community digests, which feature recent learning circle news from our global community as well as invitations to upcoming community calls and events.
 

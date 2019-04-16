@@ -9,7 +9,10 @@ Our hope in creating this course is that we can model learning circles as best a
 
 Each week, this is a chance to re-familiarize yourself with other learning circle participants, establish your goals for the day, and break up any metaphorical ice that might still be in the room. Here is how we usually check in:
 - Ask everybody to get into a circle, either sitting or standing. 
-- Starting with the facilitator, go around the circle, sharing your name, where you are from, and one thing you learned recently, encouraging non-academic responses to the question of what you learned.
+- Starting with the facilitator, go around the circle and share:
+   - Your name
+   - Where you are from
+   - One thing you learned recently, (encouraging non-academic responses)
 - Consider adding additional prompting questions, such as:
    - What are you hoping to achieve today?
    - How did you get here today?

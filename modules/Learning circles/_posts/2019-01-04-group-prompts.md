@@ -8,3 +8,5 @@ As you get into the process of creating a learning circle, now is a good time to
 - What was your experience preparing and running a learning circle like from beginning to end? 
 - How much time did it take?
 - What would you change next time?
+- How might learning circle differ differ experience in a class?
+

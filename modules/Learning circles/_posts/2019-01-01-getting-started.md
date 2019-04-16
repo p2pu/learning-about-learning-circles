@@ -22,4 +22,3 @@ Before the first learning circle
 - Send reminder email introducing yourself
 - Familiarize yourself with the online course
 - Review any icebreakers or group activities you may want to try
-

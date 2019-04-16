@@ -18,3 +18,5 @@ Outside of facilitating learning circles and contributing to our [P2PU Community
 - Find, create, and share open educational resources with P2PU
 
 All account members can receive monthly digest of P2PU activities from our entire network. You’re also welcome to stay connected through [Twitter @P2PU](https://twitter.com/P2PU), #learningcircles and [Facebook](https://www.facebook.com/P2PUniversity). 
+
+A great way to get started with the P2PU community is to introduce yourself and post any questions that are still unclear. Now that you’re finished with the course, [post what remains to the community forum](https://community.p2pu.org/) so that we can speak with you about it.

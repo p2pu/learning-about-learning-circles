@@ -3,7 +3,9 @@ title: "Strategies"
 ---
 # Strategies
 
-Hosting in-person learning communities can be hard work. Not only do you need a strong understanding of local interests and needs, but you need ways to broadcast your message that will both reach and resonate with your intended audience. In early 2019, we convened a community call with a dozen learning circle facilitators and documented some best practices for learning circle promotion.
+Hosting in-person learning communities can be hard work. Not only do you need a strong understanding of local interests and needs, but you need ways to broadcast your message that will both reach and resonate with your intended audience. In early 2019, we convened a community call with a dozen learning circle facilitators and documented some best practices for learning circle promotion. 
+
+Here are some strategies that you can considering adopting:
 ## The Q Method
 The Q-Method is participatory public bulletin, created using paper, tape and stickers, to document and display community interest on specific topics, online courses or ideas. It’s named after Qumisha Goss, who came up with the idea as a way to promote learning circles in at Detroit Public Library.
 
