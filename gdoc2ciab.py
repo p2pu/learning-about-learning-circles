@@ -14,6 +14,7 @@ SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
 #DOCUMENT_ID = '1kEk1FPgjX3gjoueXbodY-5CaEGM9ah69MRmjYbXT7Lo'
 DOCUMENT_ID = '1x7z1FRJSKf2ABNNXQC41xwd73cU767A6m-9EDGxDMlU'
 
+
 def get_doc(document_id):
     """Shows basic usage of the Docs API.
     Prints the title of a sample document.
@@ -44,13 +45,15 @@ def get_doc(document_id):
     #print('The title of the document is: {}'.format(document.get('title')))
     return document
 
+# Image formats to embed
+IMAGE_FORMATS = ['jpeg', 'jpg', 'png', 'svg'] 
 
 def smart_link(text, url, embed=False):
     #print('' + url + (' embed' if embed else '') )
     if not embed:
         return f"[{text}]({url})"
 
-    if url.split('.')[-1].lower() in ['jpg', 'png', 'svg']:
+    if url.split('.')[-1].lower() in IMAGE_FORMATS:
         return f"![{text}]({url})"
 
     return f"[{text}]({url})"
@@ -76,8 +79,14 @@ def convert_to_course_outline(document):
         for eidx, element in enumerate(elements):
             if 'textRun' in element:
                 textRun = element.get('textRun')
+                textContent = textRun['content'].strip('\n')
+                bold = textRun['textStyle'].get('bold', False)
+                if bold:
+                    textContent = f'**{textContent}**'
+                italic = textRun['textStyle'].get('italic', False)
+                if italic:
+                    textContent = f'*{textContent}*'
                 link = textRun['textStyle'].get('link', {}).get('url')
-                textContent = element['textRun']['content'].strip('\n')
                 if link:
                     text += smart_link(textContent, link, embed=True)
                 else:
