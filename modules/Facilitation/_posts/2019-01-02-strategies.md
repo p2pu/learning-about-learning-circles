@@ -15,6 +15,7 @@ Good facilitation requires a lot of different tasks:
 - Mediating conflicts
 - Summarizing and presenting findings
 
+Group Activities
 There are also many other ways to support dialogue between participants, taking the pressure off of you to be a teacher.
 - Have feedback sessions during the meeting
 - Present final work to one another other or to the public
@@ -25,5 +26,5 @@ There are also many other ways to support dialogue between participants, taking 
 
 That’s a lot, but don’t worry, nobody is expecting you to be perfect from day one, and it will become much easier with practice.
 
-If you want some more feedback from our community, take a look at all our activities and share your own with us on our community forum. [https://community.p2pu.org/tags/activity](https://community.p2pu.org/tags/activity). You can also read and watch more on the [facilitate section of our website](https://www.p2pu.org/en/facilitate/#facilitation): 
+If you want some more feedback from our community, take a look at all our activities and share your own with us on[ our community forum](https://community.p2pu.org/tags/activity.). You can also read and watch more on the [facilitate section of our website](https://www.p2pu.org/en/facilitate/#facilitation).
 

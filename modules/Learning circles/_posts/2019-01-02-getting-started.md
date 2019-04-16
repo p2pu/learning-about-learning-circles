@@ -1,7 +1,9 @@
 ---
-title: "Preparing"
+title: "Getting started"
 ---
-# Preparing
+# Getting started
+
+Facilitating a learning circle will require between 2 -3 hours hours/week, most of which is spent with participants. But the actual time commitment varies depending on what exactly what you want to do.
 
 We recommend that you schedule your first learning circle for at least six weeks in the future. This will provide you ample time to promote your learning circle and address any outstanding questions with our community. As you get closer to beginning, here’s our recommend course of action:
 

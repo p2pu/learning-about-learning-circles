@@ -3,7 +3,11 @@ title: "Activity: Check-in"
 ---
 # Activity: Check-in
 
-Our hope in creating this course is that we can model learning circles as best as possible. As you’ll soon learn, every learning circle follows a four-step method: check-in with your colleagues, do coursework, participate in a group activity, and do a plus/delta reflection at the end. As checking in is the first step in a learning circle, that’s what we will start with now. Each week, this is a chance to re-familiarize yourself with other learning circle participants, establish your goals for the day, and break up any metaphorical ice that might still be in the room. Here is how we usually check in:
+[Here is a picture of people doing an introductory check-in during a learning circle.](https://community.p2pu.org/uploads/default/original/2X/8/8fa8c70c4a774752665dd853feb652b845f74726.jpeg)
+
+Our hope in creating this course is that we can model learning circles as best as possible. As you’ll soon learn, every learning circle follows a four-step method: check-in with your colleagues, do coursework, participate in a group activity, and do a plus/delta reflection at the end. As checking in is the first step in a learning circle, that’s what we will start with now. 
+
+Each week, this is a chance to re-familiarize yourself with other learning circle participants, establish your goals for the day, and break up any metaphorical ice that might still be in the room. Here is how we usually check in:
 - Ask everybody to get into a circle, either sitting or standing. 
 - Starting with the facilitator, go around the circle, sharing your name, where you are from, and one thing you learned recently, encouraging non-academic responses to the question of what you learned.
 - Consider adding additional prompting questions, such as:

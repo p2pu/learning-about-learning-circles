@@ -1,7 +1,7 @@
 ---
-title: "The State of Online Learning"
+title: "The State of Online Education"
 ---
-# The State of Online Learning
+# The State of Online Education
 
 All learning circles come together around a common interest, supported by some free learning materials (usually an online course). The quality of free, online learning materials is a mixed bag, to say the least, so in this section we’ll outline some ways to search for high quality online courses, even if you aren’t an expert on the topic.
 
@@ -43,4 +43,5 @@ Next, there are a variety of course providers who charge licensing fees to acces
 - [Lynda](https://www.lynda.com/)
 - [Tech Change](https://www.techchange.org/)
 - [Universal Class](https://library.universalclass.com/index.htm)
-Still curious? There are many, many more resources out there that you can use to run a learning circle, from large repositories of information like Wikipedia and Youtube to remixing open textbooks. You can check out P2PU’s [list of edtech resources](https://github.com/p2pu/notes-on-edtech/blob/gh-pages/index.md) and r[ead more about our views of the current state of online education.](https://info.p2pu.org/2018/07/24/online-learning-at-the-library/) If you’re ever interested in creating your own open online course, [we can help with that too](https://howto.p2pu.org/).
+
+Still curious? There are many, many more resources out there that you can use to run a learning circle, from large repositories of information like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) and [Youtube](https://youtube.com) to [remixing open textbooks](https://open.umn.edu/opentextbooks/). You can check out P2PU’s [list of edtech resources](https://github.com/p2pu/notes-on-edtech/blob/gh-pages/index.md) and [read more about our views of the current state of online education.](https://info.p2pu.org/2018/07/24/online-learning-at-the-library/) If you’re ever interested in creating your own open online course, [we can help with that too](https://howto.p2pu.org/).

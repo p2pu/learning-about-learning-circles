@@ -7,5 +7,5 @@ If you’re in a group, here are some additional questions you may want to discu
 - What led you to decide to host this learning circle training workshop?
 - How do you think that P2PU works to support the vision of your organization/community?
 - Has anyone in your group already facilitated a learning circle? If so, briefly, what was their experience like?
-
+- Based on what you know already, how might a learning circle differ from your experience in a class?
 
