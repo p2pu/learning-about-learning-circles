@@ -3,7 +3,7 @@ title: "Welcome to P2PU"
 ---
 # Welcome to P2PU
 
-<iframe width="400" height="315" src="https://www.youtube.com/embed/bQqmIS7WQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="480" height="358.8" src="https://www.youtube.com/embed/bQqmIS7WQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Peer 2 Peer University (we mostly say P2PU) is a grassroots organization whose mission is to create alternatives to formal education that are both practical and liberating. Our primary project is called learning circles, which are groups of people who meet in person to learn something together, using free online courses or other learning resources.
 
@@ -14,7 +14,7 @@ Underlying our work is the conviction that learning is a social activity. We bel
 So by convening a group of people who are interested in a similar topic in a learning circle, you’ve got the basis for an open, collaborative learning environment. Learning circles can create a rich learning environment in which everyone simultaneously teaches and learns, acts and observes, speaks and listens. This exposes people to new perspectives, provides an opportunity to develop useful social skills, and allows individuals to achieve something greater than they could have on their own.
 
 And here are some slides that outline the key components of a learning circle:
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSF5jAsJUyfy07df-wMVnQPn1mZtmZ5w-4LTsBOMtykDZrbq1RpV4-FdydB5QMqSxK7w9tPYCTeelvZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSF5jAsJUyfy07df-wMVnQPn1mZtmZ5w-4LTsBOMtykDZrbq1RpV4-FdydB5QMqSxK7w9tPYCTeelvZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="530" height="330" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Curious about where P2PU gets its name? Look at the pictures below of two different types of computing networks. One of them is a client/server network, and the other is a peer-to-peer network. Can you guess which is which?
 

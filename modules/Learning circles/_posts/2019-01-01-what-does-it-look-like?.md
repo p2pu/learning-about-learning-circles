@@ -3,7 +3,7 @@ title: "What does it look like?"
 ---
 # What does it look like?
 
-![Here is a picture of a group of kenya librarians sitting in circle using computers](https://community.p2pu.org/uploads/default/original/2X/0/0d3b35c5d48545f248a42ab44dba4357bc081a0b.jpeg)
+![Here is a picture of a group of kenya librarians sitting in circle using computers](https://community.p2pu.org/uploads/default/original/2X/e/ed3e67b5b18f4e2b4c71f28aa8dff73074a21991.png)
 
 Learning circles usually meet for 90 minutes/week for 6-8 weeks with between 4-15 participants, though this model is flexible. With less than four people, you don’t have much expertise and support to draw from. With more than 15 people, it can be difficult to manage and host a conversation. 
 
