@@ -3,7 +3,7 @@ title: "P2PU Community"
 ---
 # P2PU Community
 
-[A group photo of the P2PU Gathering held in Kansas City in 2018](https://cdn-images-1.medium.com/max/800/1*K2XdW94dSzBYuEyOyORluQ.jpeg)
+![A group photo of the P2PU Gathering held in Kansas City in 2018](https://cdn-images-1.medium.com/max/800/1*K2XdW94dSzBYuEyOyORluQ.jpeg)
 We’d like to invite you to contribute to Peer 2 Peer University. P2PU is a community of peers helping one another learn together. But that’s not where it ends! We believe that only way we’ll succeed is if we have people like you take part, try things out, tinker around, fail a bit, and create something that has value for us all. Wherever you are, we’re ready to help you join us!
 
 ![Map of all the learning circles around the world. ](https://community.p2pu.org/uploads/default/original/2X/7/7c7e47e051927bc6423fbf4320fed992a23ac896.png)

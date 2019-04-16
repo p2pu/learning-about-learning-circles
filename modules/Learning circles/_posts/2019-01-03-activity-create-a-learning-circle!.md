@@ -29,7 +29,7 @@ You can save a learning circle as a draft or publish it right away. Your learnin
 
 Once you create a learning circle, you’ll receive an email point you to [promotional and outreach materials](https://community.p2pu.org/c/learning-circles/promotion-and-outreach), as well [as a checklist](https://community.p2pu.org/c/learning-circles/creating-a-learning-circle) to ensure that you have all your supplies ready.
 
-[Here is a screenshot of the Kenyan team page](https://community.p2pu.org/uploads/default/original/2X/6/618036893b69ae0beb631fe1de6994533393ec69.jpeg)
+![Here is a screenshot of the Kenyan team page](https://community.p2pu.org/uploads/default/original/2X/6/618036893b69ae0beb631fe1de6994533393ec69.jpeg)
 
 If your learning circle is part of a team, then you can view your learning circle alongside all of your colleagues learning circles at your team link. As an example, check out [http://p2pu.org/knls](http://p2pu.org/knls). 
 
