@@ -1,7 +1,7 @@
 ---
-title: "What is a learning circles?"
+title: "What does it look like?"
 ---
-# What is a learning circles?
+# What does it look like?
 
 ![Here is a picture of a group of kenya librarians sitting in circle using computers](https://community.p2pu.org/uploads/default/original/2X/0/0d3b35c5d48545f248a42ab44dba4357bc081a0b.jpeg)
 
@@ -15,9 +15,9 @@ A good first meeting usually starts with check-in, goal setting, and expectation
 # Coursework
 The majority of each learning circle is devoted to working through the online course. Depending on the course and week, course work can be run individually, in small groups, or as a large group gathered around a single computer or projector. 
 
-We’ll discuss **groups activities** and **plus/delta** later in this course. 
+We’ll discuss **group activities** and **plus/delta** later in this course. 
 
-![Here is a photo of a learning circle graduation](https://community.p2pu.org/uploads/default/original/2X/0/0d3b35c5d48545f248a42ab44dba4357bc081a0b.jpeg)
+![Here is a photo of a learning circle graduation](https://community.p2pu.org/uploads/default/original/2X/b/bd7a576fef9663876673c128334db006f57d0666.jpeg)
 
 At the end of a learning circle, learners and facilitators receive an online survey which ask everyone what worked well, what could be improved (both the course and the learning circle) and what their next steps will be. This report is made public for other facilitators and learners to see.
 

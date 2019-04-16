@@ -7,11 +7,11 @@ We have developed a series of open source software tools to help you facilitate 
 
 You can create a learning circle for free at anytime [using the P2PU website.](https://learningcircles.p2pu.org/en/studygroup/create/ ) Go ahead! Try it out now! Or, if you like, keep reading below for more details.
 
-![This is a screenshot of the learning circle registration page. ](https://community.p2pu.org/uploads/default/original/2X/5/50944cc9cbd05f4723e17615586781d254a98226.png)
+![This is a screenshot of the learning circle registration page. ](https://community.p2pu.org/uploads/default/original/2X/e/ed3e67b5b18f4e2b4c71f28aa8dff73074a21991.png)
 
 Once you create a learning circle, we’ll automatically spin up a website for you to promote your learning circle. 
 
-![This is a screenshot of the promotional page of a learning circle. ](https://community.p2pu.org/uploads/default/original/2X/0/084d78c2d8f44e2f8b838a850a2ef6570be0fa14.png)
+![This is a screenshot of the promotional page of a learning circle. ](https://community.p2pu.org/uploads/default/original/2X/0/03306f129a415ac4f955cb918c5ae665b6b963e3.png)
 
 You can manage your learning circle details at anytime using the [P2PU ](https://learningcircles.p2pu.org/en/organize/)[Dashboard](https://learningcircles.p2pu.org/en/organize/). Remember! You’ll need to create a P2PU account first to make a learning circle live.
 
@@ -23,6 +23,7 @@ Here’s some other great things that you can do with the Dashboard:
 - Give feedback on a weekly basis that will be shared with your learners, your colleagues (if you’d like), and P2PU.
 
 ![Here is a screenshot of a completed learning circle report ](https://community.p2pu.org/uploads/default/original/2X/8/81b4c050f9a5e68a62c6b3fcc07bf7263a03c5d9.png)
+
 The dashboard also creates a unique learning circle survey for both facilitators and learners that automatically compiles into a final report (shown above and [viewable here](https://learningcircles.p2pu.org/en/studygroup/923/report/)). Two days after the last meeting of a learning circle, the report will be sent to the facilitator, any team organizers, and all the registered participants by email.
 
 You can save a learning circle as a draft or publish it right away. Your learning circle will appear on our [worldwide list of learning circles.](https://www.p2pu.org/en/learning-circles/)

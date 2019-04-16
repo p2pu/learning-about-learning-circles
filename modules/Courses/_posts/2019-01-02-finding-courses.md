@@ -5,7 +5,7 @@ title: "Finding courses"
 
 While you can certainly go site by site and look through what’s available, there are some easier ways to find a course for a learning circle. Firstly,  you should know that the P2PU community documents courses that we think work well as learning circles here: [https://www.p2pu.org/en/courses/](https://www.p2pu.org/en/courses/). 
 
-![This is a screenshot of the P2PU courses page](https://community.p2pu.org/uploads/default/original/2X/7/7eee4d1916b33fabf32a0fe21705cfdad908d511.png)
+![This is a screenshot of the P2PU courses page](https://community.p2pu.org/uploads/default/original/2X/4/4b351536bfa2e8526efe7dedcbcb8f2986a6bf3c.png)
 
 From here, you can sort through more than 200 courses that people have used to facilitate learning circles in the past. You can sort by popularity and community feedback, and search by topic. 
 

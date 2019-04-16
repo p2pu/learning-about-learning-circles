@@ -5,8 +5,8 @@ title: "Activity: 5-Minute Facilitation"
 
 Why talk about facilitation, when we can just practice. This activity is designed to help get you comfortable facilitating, practicing what you know. We’ve pulled together a handful of 5-minute long Youtube videos about a variety of topics. These will serve as our mini-learning circles!
 
-[How do I know what people want to learn?](https://www.youtube.com/watch?v=PCnrq1iisf8) 
-[How do I run a meeting?](https://youtu.be/e3a0KbM5p9A) 
+- [How do I know what people want to learn?](https://www.youtube.com/watch?v=PCnrq1iisf8) 
+- [How do I run a meeting?](https://youtu.be/e3a0KbM5p9A) 
 
 - Divide into small groups of 4-10, and nominate somebody to be the facilitator. Ideally this is someone who may feel uneasy in the facilitator role.
 - As a group, watch one of the videos.
