@@ -3,7 +3,7 @@ title: "Activity: Anybody can learn anything"
 ---
 # Activity: Anybody can learn anything
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSup7EcRHcXq2ukiMEiXfHWoq-9ziU9UMXa3Kg0U4Jy4t5NLOY4bQT7eQ2bwz-u6NdUQ6yrYaeHrJqG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1584" height="1152" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+![Anyone can learn anything slide](https://community.p2pu.org/uploads/default/original/2X/5/5db027139fd2522ff2e930d4801639a3b23107b7.png)
 
 When learning circles began in 2015, something we heard a lot of edtech companies say was that “anybody could learn anything, anywhere, for free” and that online learning would “democratize the world”. While these are nice sentiments, they are also very naive, because they don’t account for the very real barriers that many people face.
 
