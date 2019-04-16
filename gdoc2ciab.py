@@ -2,10 +2,13 @@ from __future__ import print_function
 import pickle
 import os.path
 import os
+import logging
 import yaml
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
+
+logger = logging.getLogger(__name__)
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
@@ -81,12 +84,16 @@ def convert_to_course_outline(document):
                 textRun = element.get('textRun')
                 textContent = textRun['content'].strip('\n')
                 bold = textRun['textStyle'].get('bold', False)
+                italic = textRun['textStyle'].get('italic', False)
+                link = textRun['textStyle'].get('link', {}).get('url')
+                if not textContent:
+                    if any([bold, italic, link]):
+                        logger.warning(f'Ignoring empty textRun. bold: {bold} italic: {italic} link: {link}')
+                    continue
                 if bold:
                     textContent = f'**{textContent}**'
-                italic = textRun['textStyle'].get('italic', False)
                 if italic:
                     textContent = f'*{textContent}*'
-                link = textRun['textStyle'].get('link', {}).get('url')
                 if link:
                     text += smart_link(textContent, link, embed=True)
                 else:

@@ -7,7 +7,7 @@ While you can certainly go site by site and look through what’s available, the
 
 ![This is a screenshot of the P2PU courses page](https://community.p2pu.org/uploads/default/original/2X/7/7eee4d1916b33fabf32a0fe21705cfdad908d511.png)
 
-From here, you can sort through more than 200 courses that people have used to facilitate learning circles in the past. You can sort by popularity and community feedback, and search by topic. [](https://www.p2pu.org/en/courses/)
+From here, you can sort through more than 200 courses that people have used to facilitate learning circles in the past. You can sort by popularity and community feedback, and search by topic. 
 
 If you can’t find something on the P2PU site, try an aggregator or search engine that looks at courses across multiple platforms. You can add any course you find online to the P2PU courses page. Some of our favorite places to search for new courses are:
 - [Open Culture](http://www.openculture.com/freeonlinecourses) stays up-to-date highlighting free online courses from around the web.

@@ -15,7 +15,7 @@ Good facilitation requires a lot of different tasks:
 - Mediating conflicts
 - Summarizing and presenting findings
 
-Group Activities
+**Group Activities**
 There are also many other ways to support dialogue between participants, taking the pressure off of you to be a teacher.
 - Have feedback sessions during the meeting
 - Present final work to one another other or to the public
