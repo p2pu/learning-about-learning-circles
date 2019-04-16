@@ -13,7 +13,7 @@ If you can’t find something on the P2PU site, try an aggregator or search engi
 - [Open Culture](http://www.openculture.com/freeonlinecourses) stays up-to-date highlighting free online courses from around the web.
 - [Class Central](https://www.class-central.com/) has a nice search, allowing you to search for certain subjects by a number of different filters including start date and course rating.
 
-# Criteria
+## Criteria
 When searching for a course, it’s important to keep certain barriers in mind:
 - Is the course free and do you expect that all resources will remain available? (An open license like Creative Commons is a good sign!)
 - Is the course self-paced? If there is a set start and end date, does it align with your schedule? (Most of the courses on P2PU courses page are-self paced)

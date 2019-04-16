@@ -7,7 +7,7 @@ All learning circles come together around a common interest, supported by some f
 
 You can use any course you want to run a learning circle, so long as it is free for the participants. It’s worth noting, however, that online courses come in a variety of shapes and sizes.
 
-# Open Educational Resources (OER)
+## Open Educational Resources (OER)
 OER is broadly defined as “teaching, learning, and research resources that reside in the public domain or have been released under an intellectual property license that permits their free use and re-purposing by others”. We always favor OER, because not only is it free to reuse whenever you want, but because you can retain, revise, remix, and redistribute it. These “5 Rs of OER” signify a deep philosophical difference from proprietary vendors as to the nature and construction of knowledge. There are a number of organizations that are committed to opening knowledge, all of which maintain free online courses that are always available:
 - [DigitalLearn](https://digitallearn.org/)
 - [LumenLearning](https://lumenlearning.com/)
@@ -20,7 +20,7 @@ OER is broadly defined as “teaching, learning, and research resources that res
 - [TechBoomers](https://techboomers.com/)
 - [Wisc-Online](https://www.wisc-online.com/)
 
-# Free online courses
+## Free online courses
 There are a variety of organizations who run businesses (or at least try to) by offering free learning materials to the public. Sometimes these organizations are backed by universities (like edX and Coursera), sometimes they are non-profit organizations (like Khan Academy), sometimes they are for-profit businesses (like Udacity), and sometimes they are publicly funded (like USA Learns). While the quality of these courses for learning circles is often good, there is a risk that these courses might not always be around, as they sometimes get taken offline or put behind paywalls. Still, the vast majority of learning circles that have been run come from this category:
 - [Alison](https://alison.com/courses)
 - [Canvas network](https://www.canvas.net/)
@@ -37,7 +37,7 @@ There are a variety of organizations who run businesses (or at least try to) by 
 - [U.S. Citizenship and Immigration Services](https://www.uscis.gov/citizenship)
 - [W3 Schools](https://www.w3schools.com/)
 
-# Proprietary Vendors
+## Proprietary Vendors
 Next, there are a variety of course providers who charge licensing fees to access their materials. While we don’t allow for learning circles to charge money for participants, oftentimes libraries and school systems will have existing contracts with these vendors, and in this case, it’s fine to run them as a learning circle. Commons examples include:
 - [GALE Courses](https://www.gale.com/c/gale-courses)
 - [Lynda](https://www.lynda.com/)

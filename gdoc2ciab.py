@@ -100,7 +100,7 @@ def convert_to_course_outline(document):
                     text += textContent
 
         if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_3':
-            text = '# ' + text
+            text = '## ' + text
         if 'bullet' in paragraph:
             # TODO - handle list type, need to lookup document.lists
             nesting_level = paragraph['bullet'].get('nestingLevel', 0)

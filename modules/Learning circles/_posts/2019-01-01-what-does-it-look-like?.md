@@ -9,10 +9,10 @@ Learning circles usually meet for 90 minutes/week for 6-8 weeks with between 4-1
 
 Learning circles follow a method: check in, coursework, group activity, and plus/delta.
 
-# Check-in
+## Check-in
 A good first meeting usually starts with check-in, goal setting, and expectations for the group involvement (homework/no homework?). Saying right at the beginning, too, that learning circles are different than a class and that everyone is here together to support each other, sets a good tone for the rest of the learning circle meetings.
 
-# Coursework
+## Coursework
 The majority of each learning circle is devoted to working through the online course. Depending on the course and week, course work can be run individually, in small groups, or as a large group gathered around a single computer or projector. 
 
 We’ll discuss **group activities** and **plus/delta** later in this course. 
