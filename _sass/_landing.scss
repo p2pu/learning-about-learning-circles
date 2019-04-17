@@ -21,11 +21,21 @@ section {
 .jumbotron {
 	background: $jumbotron-color;
 	background-position: bottom center;
-	background-repeat: no-repeat;
-	background-image: url('../img/#{$jumbotron-image}');
-	background-size: auto;
+	background-repeat: repeat, no-repeat;
+	background-image: url(../img/header-overlay.png), url('../img/#{$jumbotron-image}');
+	background-size: auto, cover;
 	color: $white;
 	position: relative;
+  height: 100vh;
+ 
+
+
+#jumbo-subheader{
+   background-color: #00b5bd;
+   padding: .3em;
+   line-height: 1.4;
+
+}
 
 	a {
 		color: #fcfcfc;
@@ -43,7 +53,13 @@ section {
 .jumbotron header h1 {
 	font-family: $font-family-sans-serif;
 	font-size: 4em;
+  text-shadow: 0 0 5px $gray-darker;
 }
+
+.jumbotron header h2 {
+  text-shadow: 0 0 5px $gray-darker;
+}
+
 
 .calendar{
 	background-color: $white;
