@@ -48,6 +48,7 @@ def get_doc(document_id):
     #print('The title of the document is: {}'.format(document.get('title')))
     return document
 
+
 # Image formats to embed
 IMAGE_FORMATS = ['jpeg', 'jpg', 'png', 'svg'] 
 
@@ -60,6 +61,7 @@ def smart_link(text, url, embed=False):
         return f"![{text}]({url})"
 
     return f"[{text}]({url})"
+
 
 
 def convert_to_course_outline(document):
@@ -101,10 +103,21 @@ def convert_to_course_outline(document):
 
         if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_3':
             text = '## ' + text
+
+        if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_4':
+            text = '### ' + text
+
         if 'bullet' in paragraph:
-            # TODO - handle list type, need to lookup document.lists
-            nesting_level = paragraph['bullet'].get('nestingLevel', 0)
-            text = '   '*nesting_level + '- ' + text
+            bullet = paragraph['bullet']
+            nesting_level = bullet.get('nestingLevel', 0)
+            list_properties = document.get('lists', {}).get(bullet.get('listId'), {}).get('listProperties',{})
+            style = list_properties.get('nestingLevels')[nesting_level]
+            if 'glyphType' in style and not style['glyphType'] == 'GLYPH_TYPE_UNSPECIFIED':
+                glyph = '1.'
+            else:
+                glyph = '-'
+
+            text = '   '*nesting_level + glyph + ' ' + text
 
         # Split text into sections
         if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_1':
