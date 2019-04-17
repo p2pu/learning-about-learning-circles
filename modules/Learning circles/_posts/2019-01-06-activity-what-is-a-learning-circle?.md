@@ -3,7 +3,7 @@ title: "Activity: What is a learning circle?"
 ---
 # Activity: What is a learning circle?
 
-If you have some extra time, this is a great additional activity to help your group understand what a learning circle is for themselves.
+If you have some extra time, this is a great additional activity to help your group come to their own definition of a learning circle.
 
 P2PU is a strong advocate for learning circles, but the concept of peers learning together to address common challenges predates our organization by thousands of years. Therefore, we don’t think we should tell you exactly what is or what isn’t a learning circle - that is for you to decide. From our perspective, there are a few core values that are essential in any learning circle, but beyond that, it’s up to you.
 

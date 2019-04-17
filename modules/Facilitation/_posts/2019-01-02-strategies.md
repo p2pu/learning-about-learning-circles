@@ -27,5 +27,6 @@ There are also many other ways to support dialogue between participants, taking 
 
 That’s a lot, but don’t worry, nobody is expecting you to be perfect from day one, and it will become much easier with practice.
 
+## Further Reading
 If you want some more feedback from our community, take a look at all our activities and share your own with us on[ our community forum](https://community.p2pu.org/tags/activity.). You can also read and watch more on the [facilitate section](https://www.p2pu.org/en/facilitate/#facilitation) of our website.
 
