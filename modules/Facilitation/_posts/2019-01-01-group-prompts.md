@@ -8,4 +8,3 @@ Now that you’re familiar with the learning circle model and you know how to cr
 A good starting place is by getting a sense of what you mean by facilitation and hearing from others who have facilitated learning experiences in the past.
 - What’s the difference between teaching and facilitation? 
 - Does anyone have experience facilitating small groups that they want to share? 
-

@@ -34,4 +34,3 @@ If we take away the computers, we can imagine how these concepts relate to learn
 
 ## Further Reading
 Want to understand more about P2PU before you go forward? Read about the history of learning circles, meet some existing facilitators, and familiarize yourself with the P2PU website by visiting the [Orientation Section of the P2PU facilitate page](https://www.p2pu.org/en/facilitate/#orientation).
-

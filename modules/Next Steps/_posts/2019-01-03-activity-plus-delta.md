@@ -12,3 +12,4 @@ Some other ideas to consider:
 - If you have a very large group, you could simply say one word that exemplifies how you feel or how the training went. 
 - Ask people to share the first thing that they will do to implement learning circles now that the training is complete.
 - Come up with a ritual that everyone does at the end of a circle, such as trying to get everybody to clap once as a group to close the circle (without counting “1,2,3”). Try it - it’s harder than you think. :)
+

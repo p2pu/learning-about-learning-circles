@@ -21,9 +21,3 @@ After completing this course, you should feel comfortable and excited about faci
 This course was created using P2PU’s [Course in a Box](https://howto.p2pu.org/) tool.
 
 Ready to begin? Click on [Orientation](https://p2pu.github.io/facilitate-course/modules/orientation/activity-check-in/)
-
-
-
-
-
-

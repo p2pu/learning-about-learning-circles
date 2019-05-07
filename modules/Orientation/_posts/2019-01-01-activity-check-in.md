@@ -30,7 +30,5 @@ If many participants do not know one another, here is one way to get to know eac
 - Reflect on the point that a group can generally achieve a better result when everybody contributes their own knowledge, rather than when one person is tasked with being the expert.
 
 And if you’re all alone: 
-- [Introduce yourself on the P2PU community page](https://community.p2pu.org/t/introduce-yourself/1571/last). We will say hi back! :)
-
-
+- <a href="https://community.p2pu.org/t/introduce-yourself/1571/last" target="_blank">Introduce yourself on the P2PU community page</a>. We will say hi back! :)
 

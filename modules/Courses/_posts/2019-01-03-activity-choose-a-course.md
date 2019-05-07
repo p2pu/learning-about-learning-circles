@@ -7,10 +7,10 @@ As you get ready to choose a course, we’ve reached the point where you will ne
 
 With a P2PU account you can also post on our [community forum](https://community.p2pu.org/) and receive monthly community digests, which feature recent learning circle news from our global community as well as invitations to upcoming community calls and events.
 
-Go ahead! [Create a P2PU account](https://learningcircles.p2pu.org/en/accounts/register/?next=/en/login_redirect/) when you’re ready. 
+Go ahead! <a href="https://learningcircles.p2pu.org/en/accounts/register/?next=/en/login_redirect/" target="_blank">Create a P2PU account</a> when you’re ready. 
 
 After that, move onto the activity:
-- Using what you’ve learned about finding courses, spend a little time looking for an online course that you think might suit your needs.
-- If you find a good course that isn’t already on the P2PU courses page, [add it yourself](https://learningcircles.p2pu.org/en/course/create/) so that other facilitators can easily find it in the future. 
-- If you can’t find anything you like, [propose a topic](https://community.p2pu.org/t/what-topics-are-missing/2786) that you would like to see as course, and we’ll try to help you find one.
+- Using what you’ve learned about finding courses, spend a little time <a href="https://www.p2pu.org/en/courses/" target="_blank">looking for an online course</a> that you think might suit your needs
+- If you find a good course that isn’t already on the P2PU courses page, <a href="https://learningcircles.p2pu.org/en/course/create/" target="_blank">add it yourself</a> so that other facilitators can easily find it in the future. 
+- If you can’t find anything you like, <a href="https://community.p2pu.org/t/what-topics-are-missing/2786" target="_blank">propose a topic</a> that you would like to see as course, and we’ll try to help you find one.
 
