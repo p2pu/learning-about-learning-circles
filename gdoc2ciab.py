@@ -4,6 +4,7 @@ import os.path
 import os
 import logging
 import yaml
+import re
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
@@ -16,6 +17,15 @@ SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
 # The ID of the google doc with the course content.
 #DOCUMENT_ID = '1kEk1FPgjX3gjoueXbodY-5CaEGM9ah69MRmjYbXT7Lo'
 DOCUMENT_ID = '1x7z1FRJSKf2ABNNXQC41xwd73cU767A6m-9EDGxDMlU'
+
+NEW_TAB_LINKS = [
+    r'https://community.p2pu.org/t/introduce-yourself/1571/',
+    r'https://docs.google.com/presentation/d/1_s0FFtAPG8MHxL8yRFrdxaI22obFrX_ZsONz-sIZJSY/edit#slide=id.g3c793ae459_0_0',
+    r'https://www.p2pu.org/en/courses/',
+    r'https://learningcircles.p2pu.org/en/accounts/register.*?',
+    r'https://learningcircles.p2pu.org.*?',
+    r'https://community.p2pu.org/t/what-topics-are-missing/2786',
+]
 
 
 def get_doc(document_id):
@@ -54,6 +64,8 @@ IMAGE_FORMATS = ['jpeg', 'jpg', 'png', 'svg']
 
 def smart_link(text, url, embed=False):
     #print('' + url + (' embed' if embed else '') )
+    if any(map(lambda x: re.match(x, url), NEW_TAB_LINKS)):
+        return f'<a href="{url}" target="_blank">{text}</a>'
     if not embed:
         return f"[{text}]({url})"
 
