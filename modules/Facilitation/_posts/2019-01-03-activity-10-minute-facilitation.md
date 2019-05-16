@@ -10,7 +10,6 @@ Divide into small groups of 5-8, based on what participants are most interested 
 - [How to shoot better video with your phone](https://www.youtube.com/watch?v=7YLKcv69HQU) (CNBC)
 - [What really happened to the Library of Alexandria?](https://www.youtube.com/watch?v=jvWncVbXfJ0) (TED-Ed)
 - [10 tips for better Google searches](https://www.youtube.com/watch?v=R0DQfwc72PM) (Epic Tutorials)
-- [Who should coach the Lakers next season?](https://www.youtube.com/watch?v=FaT9Ir8_xK4) (ESPN)
 - [Understanding spam email and phishing](https://www.youtube.com/watch?v=NI37JI7KnSc&list=PLpQQipWcxwt-IW6q0DkoIktFb2-GBnHTd&index=2) (GCF LearnFree)
 - [Five tips for better public speaking](https://www.youtube.com/watch?v=AykYRO5d_lI) (Toastmasters International)
 - Or, search for anything else that you want to learn about
