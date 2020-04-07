@@ -1,5 +1,4 @@
 # basic configuration
-baseurl: /facilitate-course
 markdown: kramdown
 permalink: /:categories/:title/
 
