@@ -1,23 +1,21 @@
 ---
 layout: index
 ---
-## About the Course
-This is a openly-licensed online course about learning circles, created by Peer 2 Peer University. The course is divided into six modules, each of which can be explored in as little as 20 minutes, or as long as a few hours. Each module consists of three types of resources:
-- Background materials from P2PU for you to read and watch
-- Discussion prompts if you’re taking this course as a group
-- An activity that can be done either individually or in a group
+## About this course
+The course is divided into four modules, each of which can be explored in 90 minutes. By completing this course, you’ll gain a firm grasp on the concepts, skills, tools, and resources needed to start running learning circles in your neighborhood. A few things to point out:
 
-Many of the resources and materials that you’ll interact with were developed by learning circle partners from around the world. In fact, pretty much everything you see here comes from the [P2PU community forum](https://community.p2pu.org/), which you can access at any time. This course is dynamic in that it’s always being updated to reflect the latest insights and experiences of the P2PU community. 
-## Intended Audience
-The course is designed for anybody who is interested in running a learning circle. It is designed primarily to be taken in a group setting as a learning circle, but it’s also available to engage with individually. If you’re interested in having us run a training workshop with you, reach out to thepeople[at]p2pu[dot]org.
+🛠️—You’ll see this hammer and wrench icon throughout the course. This calls out places that reference the P2PU software tools, which have been designed to help you run learning circles. Comprehensive documentation of our tools can be found on our [Read the Docs](https://learning-circles-user-manual.readthedocs.io/en/latest/).
 
-After completing this course, you should feel comfortable and excited about facilitating a learning circle on a topic of your choice. This means that you will: 
-- Learn about P2PU and the values of the learning circle model 
-- Consider what is needed for learning circles to work effectively in your community
-- Know how to find and assess good online courses
-- Be comfortable facilitating a small group discussion
-- Know where to reach out for help
+🧶—In each module, you’ll see this yarn ball icon next to prompts to share [on our P2PU community forum](http://community.p2pu.org/). These prompts are designed to help you get acquainted with the resources available in our P2PU online community, and it also will connect you with learning circle practitioners from around the world!
 
-This course was created using P2PU’s [Course in a Box](https://howto.p2pu.org/) tool.
+> This course has been designed to be run as a learning circle. Each of the four modules have been thoughtfully put together for small groups to work through in 90 minute meetings. So, by participating in this course about learning circles, you’ll also be participating in a learning circle! Pretty meta, huh? We’ve included boxes like this throughout the course to provide you with some extra commentary that will help you transition from being a learning circle participant to a facilitator.
 
-Ready to begin? Click on [Orientation](https://p2pu.github.io/facilitate-course/modules/orientation/activity-check-in/)
+## Running this course as a learning circle
+While you are free to go through this course on your own, it was designed to be taken as a learning circle in a group of ~4-15 people meeting over four weeks. Ideally, somebody who has already facilitated a learning circle can serve as the facilitator for this course. If that’s not possible, then we recommend that participants themselves switch off who serves as the facilitator for each module. As in any learning circle, your group is ultimately in charge of how you work through the materials: you can watch videos together as a group, add in extra discussion questions or activities, pull from other sources...whatever you think is going to work best for your group! 
+
+For the full experience of running this course as a learning circle, we recommend that you use the P2PU website to <a href="https://learningcircles.p2pu.org/en/studygroup/create/?course_id=480" target="_blank">create a learning circle</a> for your group. This will give you access to email reminders, notifications, and surveys. This way, when you’re running your first learning circle, you’ll have a clear idea of what your learners’ experience will be like! 
+
+We also recommend that everybody have a computer and headphones. Pens, notebooks, and post-it notes are helpful but not essential.
+## P2PU’s facilitator training workshops
+Many of the materials in this course have been pulled from P2PU’s in-person facilitator training workshops and modified for this online course. If you’re interested in learning more about P2PU’s in-person training workshops and other offerings, please visit our [Work With Us](https://www.p2pu.org/en/work-with-us/) page or reach out to thepeople[at]p2pu[dot]org.
+
