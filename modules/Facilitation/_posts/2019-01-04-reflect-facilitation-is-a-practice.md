@@ -3,7 +3,7 @@ title: "Reflect: Facilitation is a practice"
 ---
 # Reflect: Facilitation is a practice
 
-*Suggested timing: 10 minutes*
+*Suggested timing: 10 minutes* 
 
 As you’ve gone through this course, what is something that surprised you when thinking about yourself as a facilitator?
 

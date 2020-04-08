@@ -3,7 +3,7 @@ title: "Do/Make/Say/Think"
 ---
 # Do/Make/Say/Think
 
-*Suggested timing: 35 minutes*
+*Suggested timing: 35 minutes* 
 
 Creating a learning circle only takes about five minutes once you’ve made your plan. In this activity, we’ve developed some questions that will help you move towards publishing your first learning circle.
 
@@ -19,6 +19,7 @@ Talk through the following questions. Wherever possible, fill in your answers on
 - How will you go about promoting the learning circle?
 - Is there an extra question that you want all learners to answer when signing up? How will the answer to this question help you prepare?
 - What questions remain at this point?
+
 
 If you’re able to fill in a number of fields, you can save your learning circle as a draft and return to it later.
 

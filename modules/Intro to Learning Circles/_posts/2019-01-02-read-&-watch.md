@@ -3,7 +3,7 @@ title: "Read & Watch"
 ---
 # Read & Watch
 
-*Suggested timing: 30 minutes*
+*Suggested timing: 30 minutes* 
 ## Welcome to P2PU
 <iframe width="480" height="358.8" src="https://www.youtube.com/embed/bQqmIS7WQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,30 +29,34 @@ Every learning circle has a facilitator. The facilitator does not have to be an 
 - Delegating tasks
 - Leading group discussions
 - Fostering curiosity and exploration
+
+
 ### Collaborative
 Learning circles are rooted in peer learning, which values each participant’s experience and expertise. Three values underlie P2PU’s concept of peer learning:
 - Everybody is an expert in something
 - Sharing is how we learn best
 - Feedback is necessary in order to improve
 
+
 Peer learning can create a rich learning environment in which everyone simultaneously teaches and learns, acts and observes, speaks, and listens. This exposes learners of all backgrounds to new perspectives, provides an opportunity to develop useful social skills, and allows individuals to achieve something greater than they could have on their own. One way we capture this sentiment is by saying that we are all teachers and we are all learners.
 
 By convening a group of learners who are interested in a similar topic, you have the basis for an open, collaborative learning environment and a helpful support system. We find that learning circles work best with between 4-15 learners. Outside of this range, you may find extra burden placed on you as the facilitator. That being said, there have been said, there have been successful groups of three who have worked through courses together and learning circles as big as 60 people, supported by a team of facilitators! 
 
-[Dirk is a teacher and a learner](https://flic.kr/p/2ggoKG9)
+![Dirk is a teacher and a learner](https://live.staticflickr.com/65535/48088230948_21cf99deb4_o_d.jpg)
 
 ### Structured
 Every learning circle meeting has the same overarching structure: a check-in, time spent watching and reading background materials, a group activity (do/make/say/think), and time for reflection.
 
-**Check-in: **Learning circles begin each week with a ~5-10 minute check-in. This is a chance to (re)familiarize yourself with other participants and to set your personal goals for the meeting. Check-ins may include icebreakers, reviews of personal goals, and/or a recap of the prior week.
+**Check-in:**  Learning circles begin each week with a ~5-10 minute check-in. This is a chance to (re)familiarize yourself with other participants and to set your personal goals for the meeting. Check-ins may include icebreakers, reviews of personal goals, and/or a recap of the prior week.
 
-**Watch & Read: **The majority of each learning circle is devoted to working through the online course materials. There are certain course topics (e.g. web design and basic computer skills) where it will make sense for everybody to have their own computer and work through a lot of the materials on their own. There are other course topics (e.g. public speaking and interview skills) where it might make more sense to project the course on a wall and go through all the materials as a group. It’s completely up to you and the learners who you are working with to determine how you best want to spend this time: oftentimes, what’s best is a mix of both individual and group work.
+**Read & Watch:**  The majority of each learning circle is devoted to working through the online course materials. There are certain course topics (e.g. web design and basic computer skills) where it will make sense for everybody to have their own computer and work through a lot of the materials on their own. There are other course topics (e.g. public speaking and interview skills) where it might make more sense to project the course on a wall and go through all the materials as a group. It’s completely up to you and the learners who you are working with to determine how you best want to spend this time: oftentimes, what’s best is a mix of both individual and group work.
 
-**Do/Make/Say/Think**: Incorporating group discussions and activities into the course ensures that you’re doing more than just proctoring a study hall. Sometimes group activities emerge naturally from the online course, but sometimes you need to look elsewhere. We have created some of our own activities which you can use to support peer learning and bridge the gap between the online course and real life. 
+**Do/Make/Say/Think** : Incorporating group discussions and activities into the course ensures that you’re doing more than just proctoring a study hall. Sometimes group activities emerge naturally from the online course, but sometimes you need to look elsewhere. We have created some of our own activities which you can use to support peer learning and bridge the gap between the online course and real life. 
 
-**Reflect: **Reflection is a core component of learning circles, and we recommend doing a short group reflection exercise at the end of every learning circle meeting.
+**Reflect:**  Reflection is a core component of learning circles, and we recommend doing a short group reflection exercise at the end of every learning circle meeting.
 
 > You’ll notice that each module of this course is broken into these same four sections, making it perfectly suited for use in a learning circle format! However, not all online courses are as learning circle friendly, so as a facilitator, you’ll work closely with your learners to adapt existing courses to this format. Don’t worry, we’ll be covering this topic later in this course ;)
+
 ## Setting expectations
 Some learners will inevitably come to the learning circle expecting a traditional classroom experience (where you are the teacher). Therefore, it is important for the facilitator to model peer learning from the very first meeting and involve learners in setting the tone of the group. 
 

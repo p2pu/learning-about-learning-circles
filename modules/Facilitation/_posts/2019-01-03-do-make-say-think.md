@@ -3,7 +3,7 @@ title: "Do/Make/Say/Think"
 ---
 # Do/Make/Say/Think
 
-*Suggested timing: 35 minutes*
+*Suggested timing: 35 minutes* 
 
 Earlier in this module, we shared some tips for learning circle facilitators. With these in mind, break into small groups and take 15 minutes to talk through (or role play) the following scenarios. Each of these scenarios has come up in a real learning circle!
 
@@ -15,6 +15,7 @@ Earlier in this module, we shared some tips for learning circle facilitators. Wi
 - By the middle of the second week of your learning circle on learning Spanish, it’s clear that you are dealing with two groups of people who are at very different levels. There are five learners who seem to already have a strong beginner ability, and three learners who are true beginners.
 - During your first meeting, some group members are very excited about the social aspect of the learning circle, while a few others just want to go through the course on their own.
 - (Or come up with your own scenarios -- what are you worried will happen?)
+
 
 When you’re finished, come back together as a full group and discuss your reactions and responses to the scenarios. What facilitation tips did you find most helpful when coming up with responses to these scenarios?
 

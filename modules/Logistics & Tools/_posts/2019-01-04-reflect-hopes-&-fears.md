@@ -3,7 +3,7 @@ title: "Reflect: Hopes & fears"
 ---
 # Reflect: Hopes & fears
 
-*Suggested timing: 10 minutes*
+*Suggested timing: 10 minutes* 
 
 Now that you’ve made a plan to get your first learning circle off the ground, let’s reflect a bit on how we hope it will be and what we’re worried about. This is a reflection exercise called Hopes and Fears. 
 

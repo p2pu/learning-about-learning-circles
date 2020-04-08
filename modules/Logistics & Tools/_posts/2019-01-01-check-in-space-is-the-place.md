@@ -3,7 +3,7 @@ title: "Check-in: Space is the Place"
 ---
 # Check-in: Space is the Place
 
-*Suggested timing: 10 minutes*
+*Suggested timing: 10 minutes* 
 
 Chances are that you can’t make major changes to the space that you are meeting in for your learning circle. But that doesn’t mean you can’t make a few small changes that will improve the experience for yourself and your peers.
 

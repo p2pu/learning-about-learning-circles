@@ -3,27 +3,30 @@ title: "Read & Watch"
 ---
 # Read & Watch
 
-*Suggested timing: 35 minutes*
+*Suggested timing: 35 minutes* 
 ## Preparing for a learning circle
 Facilitating a learning circle requires about three hours/week on the part of the facilitator, most of which is spent in the actual learning circle. In addition to that, you’ll need to spend some time setting-up and cleaning-up each week, communicating with learners between each meeting, and familiarizing yourself with the upcoming week of course materials.
 
 We recommend that you schedule your first learning circle for at least six weeks in the future. This will provide you ample time to promote your learning circle and address any outstanding questions with the P2PU team and community. As you think about planning for your first learning circle, here’s our recommended course of action:
 
-**6 weeks prior**
+**6 weeks prior** 
 - Discuss plans with any affiliated organizations
 - Choose a course
 - Find a space
 - Choose date and time
 - Confirm supplies will be available (laptops, headphones, pens, nametags, snacks, etc.)
-**4 weeks prior**
+
+**4 weeks prior** 
 - Establish additional web presence
 - Customize a flyer
 - Connect with local communities
 - Publicize online and offline
-**2 weeks prior**
+
+**2 weeks prior** 
 - Confirm with all registered learners
 - Confirm with venue
 - Gather supplies
+
 
 You can also download this list as a [PDF checklist](https://docs.google.com/document/d/1j71Y8Izmv1nnB352DQ4DDMpRJPTALaZiAoJ-zCNQR6g/edit?usp=sharing). 
 
@@ -49,6 +52,7 @@ Watch this video clip of Athanasia Fitos, a librarian from Miami, discussing the
 - How do you currently understand and document the needs, interests, and experiences of the various communities you serve? 
 - Which communities does your organization not serve who you might want to reach?
 - What audiences or communities do you aim to serve through learning circles, and what might benefit or interest them most?
+
 Here are some final thoughts from the P2PU community on how to best promote learning circles.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEi5_MJpLMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -60,6 +64,7 @@ Once you have selected your course and confirmed where and when you’re going t
 The creation flow is a 5-step process; you can <a href="https://learningcircles.p2pu.org/en/studygroup/create/" target="_blank">click through it all</a> without needing to log in to the P2PU site. The only thing worth calling out here in more detail is “Step 5: Finalize”. Here, you have the option of answering two questions that will be shared with P2PU and a group of volunteer facilitators who we call the Welcome Committee.
 - What do you hope to achieve by facilitating this learning circle?
 - Is there anything that we can help you with as you get started?
+
 
 Once you create a learning circle, we’ll automatically spin up a website for you to promote your learning circle. That will look something like this:
 
@@ -74,7 +79,8 @@ You can manage your learning circle at any time <a href="https://learningcircles
 - View details of learners who have signed up
 - Send emails or SMS messages to individual learners or the entire group
 - Share weekly feedback with learners, your colleagues, and P2PU
-## Communication and feedback
+
+## 🛠️Communication and feedback
 Feedback is an important part of peer learning, and P2PU’s tools help gather and share information between learners, facilitators, and the P2PU team across the learning circle. P2PU holds user privacy to the utmost importance and we are compliant with the European Union General Data Protection Regulation (GDPR). Here is the type of communication that you can expect during a learning circle:
 
 ![P2PU feedback tools](https://community.p2pu.org/uploads/default/original/2X/9/992ae54c06126b5c73ace33ba270cdc477fb0225.png)
