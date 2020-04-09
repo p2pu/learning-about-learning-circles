@@ -1,7 +1,7 @@
 ---
-title: "eCheck-in: Space is the Place"
+title: "Check-in: Space is the Place"
 ---
-# eCheck-in: Space is the Place
+# Check-in: Space is the Place
 
 *Suggested timing: 10 minutes* 
 

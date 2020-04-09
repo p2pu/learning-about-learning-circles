@@ -24,3 +24,5 @@ Talk through the following questions. Wherever possible, fill in your answers on
 If you’re able to fill in a number of fields, you can save your learning circle as a draft and return to it later.
 
 🧶—When you’re finished, talk as a group through your plans. What are the sticking points? Can the group help each other in any way? Would the group benefit from speaking with a past facilitator? Share these thoughts on the “[Creating a learning circle](https://community.p2pu.org/c/learning-circles/creating-a-learning-circle)” category on the community forum.
+
+<a class="btn btn-primary" href="https://community.p2pu.org/c/learning-circles/creating-a-learning-circle">Go to the forum</a>
