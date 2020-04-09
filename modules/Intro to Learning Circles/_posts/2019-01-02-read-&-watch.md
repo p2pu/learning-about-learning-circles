@@ -5,7 +5,7 @@ title: "Read & Watch"
 
 *Suggested timing: 30 minutes* 
 ## Welcome to P2PU
-<iframe width="480" height="358.8" src="https://www.youtube.com/embed/bQqmIS7WQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-4by3"><iframe width="480" height="358.8" src="https://www.youtube.com/embed/bQqmIS7WQa8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Peer 2 Peer University (we mostly say P2PU) is a grassroots organization whose mission is to create alternatives to formal education that are both practical and liberating. Our primary project is called learning circles, which are groups of people who meet in-person to learn something together, using free online courses or other learning resources.
 
@@ -13,7 +13,7 @@ P2PU is a small team, but learning circles have reached six continents because w
 
 P2PU is guided by our three values of equity, community, and peer learning. You can read more about what those mean to [us on our website](https://www.p2pu.org/en/about/).
 ## What is a learning circle? 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H5vReon6uL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/H5vReon6uL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Simply put, a learning circle is a group of people who meet in-person to learn something together. Every learning circle looks a little different, but they all have a few things in common. 
 ### Free 
@@ -49,7 +49,7 @@ Every learning circle meeting has the same overarching structure: a check-in, ti
 
 **Check-in:**  Learning circles begin each week with a ~5-10 minute check-in. This is a chance to (re)familiarize yourself with other participants and to set your personal goals for the meeting. Check-ins may include icebreakers, reviews of personal goals, and/or a recap of the prior week.
 
-**Read & Watch:**  The majority of each learning circle is devoted to working through the online course materials. There are certain course topics (e.g. web design and basic computer skills) where it will make sense for everybody to have their own computer and work through a lot of the materials on their own. There are other course topics (e.g. public speaking and interview skills) where it might make more sense to project the course on a wall and go through all the materials as a group. It’s completely up to you and the learners who you are working with to determine how you best want to spend this time: oftentimes, what’s best is a mix of both individual and group work.
+**Read**  **&**  **Watch:**  The majority of each learning circle is devoted to working through the online course materials. There are certain course topics (e.g. web design and basic computer skills) where it will make sense for everybody to have their own computer and work through a lot of the materials on their own. There are other course topics (e.g. public speaking and interview skills) where it might make more sense to project the course on a wall and go through all the materials as a group. It’s completely up to you and the learners who you are working with to determine how you best want to spend this time: oftentimes, what’s best is a mix of both individual and group work.
 
 **Do/Make/Say/Think** : Incorporating group discussions and activities into the course ensures that you’re doing more than just proctoring a study hall. Sometimes group activities emerge naturally from the online course, but sometimes you need to look elsewhere. We have created some of our own activities which you can use to support peer learning and bridge the gap between the online course and real life. 
 
@@ -64,9 +64,9 @@ One easy way to do this is to set up the room in a circle. We encourage groups t
 
 Let’s hear from some P2PU facilitators, and get their advice on how to start learning circles off on the right foot.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KGgECP9qgJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/KGgECP9qgJI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1uhBWqLXlBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/1uhBWqLXlBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 ## Additional readings & resources
 The ideas behind learning circles are not new. To the contrary, there is a long and important legacy of anti-oppressive education practices that P2PU honors through our work with learning circles. We’ve compiled a brief history of learning in a circle [on our community forum](https://community.p2pu.org/t/the-history-of-learning-in-a-circle/2777), which we encourage you to read and comment on. We draw inspiration from iconic texts and historic social movements as much as we do from modern movements that fight against the hegemony of formal education. 
 

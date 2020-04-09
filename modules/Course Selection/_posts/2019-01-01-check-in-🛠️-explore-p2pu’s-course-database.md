@@ -1,7 +1,7 @@
 ---
-title: "🛠️Check-in: Explore P2PU’s course database"
+title: "Check-in: 🛠️ Explore P2PU’s course database"
 ---
-# 🛠️Check-in: Explore P2PU’s course database
+# Check-in: 🛠️ Explore P2PU’s course database
 
 *Suggested timing: 10 minutes* 
 

@@ -50,3 +50,20 @@
     min-width: 100%;
   }
 }
+
+blockquote {
+  padding: 1em;
+  margin: 0;
+  border: 0;
+  background: $p2pu-blue;
+  color: $gray-lighter;
+  font-style: normal;
+  font-size: large;
+  line-height: 1.8;
+
+  a, a:hover {
+    color: white;
+    font-weight: bold;
+  }
+
+}

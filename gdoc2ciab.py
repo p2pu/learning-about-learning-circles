@@ -15,8 +15,7 @@ logger = logging.getLogger(__name__)
 SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
 
 # The ID of the google doc with the course content.
-#DOCUMENT_ID = '1kEk1FPgjX3gjoueXbodY-5CaEGM9ah69MRmjYbXT7Lo'
-DOCUMENT_ID = '1x7z1FRJSKf2ABNNXQC41xwd73cU767A6m-9EDGxDMlU'
+DOCUMENT_ID = '1KUTVBQRaXmw33nuA-Vj44mUIbRZIRgb_nIMj-QNowEc'
 
 NEW_TAB_LINKS = [
     r'https://community.p2pu.org/t/introduce-yourself/1571/',
@@ -84,10 +83,13 @@ def convert_to_course_outline(document):
     content = filter(lambda se: 'paragraph' in se, content)
     modules = []  # [{'title': '', sections: [  ] }]
     intro = ''
+    list_run = False
     for se in content:
         paragraph = se['paragraph']
         page_break = any([True for e in paragraph['elements'] if 'pageBreak' in e])
         if page_break:
+            logger.debug('Encoutered page break, stop processing document')
+            print('Encoutered page break, stop processing document')
             # Stop processing the document after the first page break
             break
         text = ''
@@ -97,6 +99,8 @@ def convert_to_course_outline(document):
             if 'textRun' in element:
                 textRun = element.get('textRun')
                 textContent = textRun['content'].strip('\n')
+                if 'iframe' in textContent:
+                    textContent = f'<div class="embed-responsive embed-responsive-4by3">{textContent}</div>'
                 bold = textRun['textStyle'].get('bold', False)
                 italic = textRun['textStyle'].get('italic', False)
                 link = textRun['textStyle'].get('link', {}).get('url')
@@ -105,9 +109,9 @@ def convert_to_course_outline(document):
                         logger.warning(f'Ignoring empty textRun. bold: {bold} italic: {italic} link: {link}')
                     continue
                 if bold:
-                    textContent = f'**{textContent}**'
+                    textContent = f'**{textContent.strip(" ")}** '
                 if italic:
-                    textContent = f'*{textContent}*'
+                    textContent = f'*{textContent}* '
                 if link:
                     text += smart_link(textContent, link, embed=True)
                 else:
@@ -128,12 +132,17 @@ def convert_to_course_outline(document):
                 glyph = '1.'
             else:
                 glyph = '-'
-
             text = '   '*nesting_level + glyph + ' ' + text
+            list_run = True
+        elif list_run:
+            list_run = False
+            if paragraph.get('paragraphStyle',{}).get('namedStyleType') not in ['HEADING_1', 'HEADING_2']:
+                text = f'\n{text}'
 
         # Split text into sections
         if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_1':
             modules += [{'title': text, 'sections': []}]
+            print('Got new module ' + text)
             continue 
 
         if len(modules) == 0:
@@ -143,6 +152,7 @@ def convert_to_course_outline(document):
         module = modules[-1]
         if paragraph.get('paragraphStyle',{}).get('namedStyleType') == 'HEADING_2':
             module['sections'] += [{'title': text, 'md': ''}]
+            print('Got new section ' + text)
             text = '# ' + text + '\n'
 
         if len(module['sections']) == 0:

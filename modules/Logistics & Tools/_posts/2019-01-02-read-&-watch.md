@@ -46,7 +46,7 @@ What’s great about the Q Method is that it both invites community contribution
 ### Focus groups
 If you want more feedback on program design, you may wish to bring a small group of people together and ask them questions about what they are looking for in learning circles. This is a great way to not only generate data and insight, but also to get to know people and build relationships. In Kenya, libraries run focus groups as part of their learning circle training; we’ve adapted their focus group questions for you [on the forum](https://community.p2pu.org/t/library-patron-focus-group/3129). 
 ### Community partnerships
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PCnrq1iisf8?start=131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/PCnrq1iisf8?start=131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Watch this video clip of Athanasia Fitos, a librarian from Miami, discussing the role of community partnerships in building a successful learning circle community. As you watch, think about (or discuss) your responses to these questions:
 - How do you currently understand and document the needs, interests, and experiences of the various communities you serve? 
@@ -54,7 +54,7 @@ Watch this video clip of Athanasia Fitos, a librarian from Miami, discussing the
 - What audiences or communities do you aim to serve through learning circles, and what might benefit or interest them most?
 
 Here are some final thoughts from the P2PU community on how to best promote learning circles.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QEi5_MJpLMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/QEi5_MJpLMc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## 🛠️ How to create a learning circle on the P2PU website
 Once you have selected your course and confirmed where and when you’re going to meet, it’s time to create your learning circle on <a href="https://learningcircles.p2pu.org/en/studygroup/create/ " target="_blank">the P2PU website</a>! 
@@ -80,7 +80,7 @@ You can manage your learning circle at any time <a href="https://learningcircles
 - Send emails or SMS messages to individual learners or the entire group
 - Share weekly feedback with learners, your colleagues, and P2PU
 
-## 🛠️Communication and feedback
+## 🛠️ Communication and feedback
 Feedback is an important part of peer learning, and P2PU’s tools help gather and share information between learners, facilitators, and the P2PU team across the learning circle. P2PU holds user privacy to the utmost importance and we are compliant with the European Union General Data Protection Regulation (GDPR). Here is the type of communication that you can expect during a learning circle:
 
 ![P2PU feedback tools](https://community.p2pu.org/uploads/default/original/2X/9/992ae54c06126b5c73ace33ba270cdc477fb0225.png)
