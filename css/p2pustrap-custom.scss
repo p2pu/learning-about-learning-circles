@@ -52,13 +52,12 @@
 }
 
 blockquote {
-  padding: 1em;
+  padding: 1.2em;
   margin: 0;
   border: 0;
-  border-radius: 25px;
   background: #DFF7F4;
   font-style: normal;
-  line-height: 1.8;
+  font-size: inherit;
 
   a, a:hover {
     font-weight: bold;
@@ -71,3 +70,10 @@ blockquote {
   border: 0;
   color: $gray-lighter;
 }
+
+#jumbotron-homepage{
+  display: flex;
+  align-items: center;
+}
+
+

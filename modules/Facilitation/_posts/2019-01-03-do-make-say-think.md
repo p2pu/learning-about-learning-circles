@@ -23,4 +23,4 @@ Finally, as a group, come up with a definition of what facilitation means to you
 
 🧶—Share your group definitions in the “[Tips for New Facilitators](https://community.p2pu.org/t/tips-for-new-facilitators/2730/last)” post on the community forum. If you came up with any other scenarios, you can share those [as a new topic](https://community.p2pu.org/c/learning-circles/facilitation) within the Facilitation category.
 
-<a class="btn btn-primary" href="https://community.p2pu.org/c/learning-circles/facilitation">Go to the forum</a>
+<p class="text-center"><a class="btn btn-primary" href="https://community.p2pu.org/c/learning-circles/facilitation">Go to the forum</a></p>

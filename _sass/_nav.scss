@@ -3,11 +3,13 @@
 }
 
 .p2pu-logo {
-
-	position: absolute;
+	position: absolute !important;
 	right: 0;
-
 	img {
 		width: 75px;
 	}
+	@media (max-width: 991px){
+		position: relative !important;
+	}
 }
+

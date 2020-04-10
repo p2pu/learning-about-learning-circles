@@ -36,8 +36,6 @@ Don’t worry if you can’t find a course that you like on P2PU’s <a href="ht
 - Of course, you can also simply search on Google or any other search engine for “free online course in <topic>”.
 - Finally, we keep a fairly up to date list of popular courses providers [on our website](https://github.com/p2pu/notes-on-edtech/blob/gh-pages/index.md). You can review this to find providers who you may not have heard of before.
 
-
-🧶—If there is a topic that you are interested in but can’t find a good course for, let us know on the “<a href="https://community.p2pu.org/t/what-topics-are-missing/2786" target="_blank">What Topics are Missing?</a>” post on the community forum. 
 ## Evaluating courses
 You do not need to be an expert in the course material in order to facilitate a learning circle. However, whether you are looking on P2PU’s course database or elsewhere on the web, you’ll want to review the course before you create a learning circle. A few key points to consider when evaluating courses:
 - Is the course free and do you expect that all resources will remain available for the duration of the learning circle? (A Creative Commons license is a good sign!)
