@@ -34,5 +34,5 @@ After you’ve finished, take another 15 minutes for each group report back to t
 
 🧶—Check out the “[Latest Courses and Topics](https://community.p2pu.org/c/learning-circles/courses-and-topics)” category on the community forum, and share your thoughts about any courses or topics that you investigated. If there is a topic that you are interested in but can’t find a good course for, let us know on the “<a href="https://community.p2pu.org/t/what-topics-are-missing/2786" target="_blank">What Topics are Missing?</a>” thread.
 
-<a class="btn btn-primary" href="https://community.p2pu.org/c/learning-circles/courses-and-topics">Go to the forum</a>
+<p class="text-center"><a class="btn btn-primary" href="https://community.p2pu.org/c/learning-circles/courses-and-topics">Go to the forum</a></p>
 
