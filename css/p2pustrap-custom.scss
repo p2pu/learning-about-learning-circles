@@ -52,18 +52,28 @@
 }
 
 blockquote {
-  padding: 1em;
+  padding: 1.2em;
   margin: 0;
   border: 0;
-  background: $p2pu-blue;
-  color: $gray-lighter;
+  background: #DFF7F4;
   font-style: normal;
-  font-size: large;
-  line-height: 1.8;
+  font-size: inherit;
 
   a, a:hover {
-    color: white;
     font-weight: bold;
   }
 
 }
+
+.btn-primary {
+  background: $p2pu-blue;
+  border: 0;
+  color: $gray-lighter;
+}
+
+#jumbotron-homepage{
+  display: flex;
+  align-items: center;
+}
+
+

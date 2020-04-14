@@ -9,7 +9,7 @@
 	</div>
 
 	<!-- Collect the nav links, forms, and other content for toggling -->
-	<div class="container">
+	<div class="container-fluid">
 		<div class="collapse navbar-collapse" id="p2pu-menu">
 			<ul class="nav navbar-nav">
 				<li>
@@ -24,15 +24,12 @@
 						</a>
 					</li>
 				{% endfor %}
-				<!-- <li>
-					<a href="https://community.p2pu.org/" target="_blank">Discussion</a>
-				</li> -->
+				<!--
+				<li class="p2pu-logo">
+					<a class="p2pu-tab" href="https://www.p2pu.org/"><img src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}" /></a>
+				</li>
+				-->
 			</ul>
-      {% if site.github.owner_name == 'p2pu' %}
-			<ul class="p2pu-logo">
-				<li><a class="p2pu-tab" href="https://www.p2pu.org/"><img src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}" /></a></li>
-			</ul>
-      {% endif %}
 		</div>
 		<!-- /.navbar-collapse -->
 	</div>
