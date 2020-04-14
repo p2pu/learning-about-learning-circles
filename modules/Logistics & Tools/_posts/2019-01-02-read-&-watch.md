@@ -28,9 +28,7 @@ We recommend that you schedule your first learning circle for at least six weeks
 - Gather supplies
 
 
-You can also download this list as a [PDF checklist](https://docs.google.com/document/d/1j71Y8Izmv1nnB352DQ4DDMpRJPTALaZiAoJ-zCNQR6g/edit?usp=sharing). 
-
-🧶—The “[Promotion and Outreach](https://community.p2pu.org/t/about-the-promotion-and-outreach-category/2698)” category on our community forum features a number of flyer templates, messaging ideas, and logos that you can use for marketing your learning circle!
+You can also download this list as a [PDF checklist](https://docs.google.com/document/d/1j71Y8Izmv1nnB352DQ4DDMpRJPTALaZiAoJ-zCNQR6g/edit?usp=sharing) and check out the “[Promotion and Outreach](https://community.p2pu.org/t/about-the-promotion-and-outreach-category/2698)” category on our community forum, which features a number of flyer templates, messaging ideas, and logos that you can use for marketing your learning circle!
 ## Gathering input from your community
 Before you start running learning circles, you may want to run a small outreach project in your community to both get the word out and better understand the needs of potential learning circle participants. Below, we outline a few ways that the P2PU community has developed or used to integrate community opinions into learning circle program planning!
 

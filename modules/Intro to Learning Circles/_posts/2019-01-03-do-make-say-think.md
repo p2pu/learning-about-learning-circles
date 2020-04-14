@@ -34,3 +34,5 @@ The [P2PU website](https://www.p2pu.org/en/) is the hub for all the tools and re
 
 
 🧶—Now that you have a P2PU account, head over to the “<a href="https://community.p2pu.org/t/introduce-yourself/1571/269" target="_blank">Introduce Yourself</a>” thread on the P2PU community forum (if you're prompted to log in again on the forum, you can use your new P2PU credentials to do so; you don’t need to create a separate account!). Say hi 👋 and let us know that you’re working through this course! 
+
+<a class="btn btn-primary" href="https://community.p2pu.org/t/introduce-yourself/1571/269">Go to the forum</a>
