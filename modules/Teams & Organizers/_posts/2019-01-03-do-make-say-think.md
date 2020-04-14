@@ -23,4 +23,5 @@ For the second part, download a copy of the [Team Planning Worksheet](https://co
 
 When you go back through the worksheet to assign responsibilities, focus on the things that you have the freedom and discretion to get started on right away.  If you need additional resources or authority in order to take on a task, make sure that is included as a step on the worksheet.
 🧶— When you’re finished, turn your planning worksheet into a PDF (or take a photo of it) and share it in the “[Starting a P2PU Community](https://community.p2pu.org/c/communities/building-a-p2pu-community)” category on the community forum. 
+
 <a class="btn btn-primary" href="https://community.p2pu.org/c/communities/building-a-p2pu-community">Go to the forum</a>
