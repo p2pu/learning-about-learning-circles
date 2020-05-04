@@ -40,9 +40,10 @@ The Q Method is a participatory public bulletin used to solicit feedback about c
 As you can see in the example above, the most popular course with 20 votes was Marketing in a Digital World. There was a tie for second place – Introduction to Public Speaking and Social Entrepreneurship 101 both received 16 votes. Based on the results, the Q offered both the marketing and public speaking courses as learning circles.
 
 What’s great about the Q Method is that it both invites community contribution for deciding topics, and serves to promote the program. This concept has been re-used by learning circle facilitators around the world, and can also have applications for other community feedback issues, such as strategic planning, programming decision-making, and understanding community satisfaction and engagement. Our our community forum, you can [download a template](https://community.p2pu.org/t/q-method-for-documenting-community-interests/2699/2) to create your own Q method and see how others have implemented it around the world.
-### 
+
 ### Focus groups
 If you want more feedback on program design, you may wish to bring a small group of people together and ask them questions about what they are looking for in learning circles. This is a great way to not only generate data and insight, but also to get to know people and build relationships. In Kenya, libraries run focus groups as part of their learning circle training; we’ve adapted their focus group questions for you [on the forum](https://community.p2pu.org/t/library-patron-focus-group/3129). 
+
 ### Community partnerships
 <div class="embed-responsive embed-responsive-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/PCnrq1iisf8?start=131" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -56,8 +57,6 @@ Here are some final thoughts from the P2PU community on how to best promote lear
 
 ## 🛠️ How to create a learning circle on the P2PU website
 Once you have selected your course and confirmed where and when you’re going to meet, it’s time to create your learning circle on <a href="https://learningcircles.p2pu.org/en/studygroup/create/ " target="_blank">the P2PU website</a>! 
-
-<a href="https://learningcircles.p2pu.org/en/studygroup/create/" target="_blank">Learning circle creation flow </a>
 
 The creation flow is a 5-step process; you can <a href="https://learningcircles.p2pu.org/en/studygroup/create/" target="_blank">click through it all</a> without needing to log in to the P2PU site. The only thing worth calling out here in more detail is “Step 5: Finalize”. Here, you have the option of answering two questions that will be shared with P2PU and a group of volunteer facilitators who we call the Welcome Committee.
 - What do you hope to achieve by facilitating this learning circle?
@@ -87,7 +86,7 @@ When creating a learning circle, facilitators are prompted to state their goals 
 ### During the learning circle
 Each week, a reminder message is automatically sent to learners two days beforehand via email or SMS. Before the reminder is sent, you have the opportunity to log into their dashboard and customize the message.
 After each weekly meeting, you can record a weekly reflection on their dashboard and send it to your learners and/or P2PU.
-### 
+
 ### Upon completion
 At the end of a learning circle, learners and facilitators receive an email with a link to a survey that asks everyone to reflect upon the goal they first set, what worked well, what could be improved, and what their next steps will be. 
 
