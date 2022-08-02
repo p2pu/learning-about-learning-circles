@@ -27,9 +27,9 @@ Each of these tools is embedded within P2PU’s global community of practice. Fo
 The [P2PU website](https://www.p2pu.org/en/) is the hub for all the tools and resources you’ll need to run a successful learning circles. Some of the most prominent resources are:
 - [Learning circle signup page](http://p2pu.org/learning-circles): This is where potential learners can find all the learning circles currently happening around the world.
 - [Community forum](http://community.p2pu.org/): This is the place to discuss all things learning circles with other facilitators.
-- [Facilitator page](https://www.p2pu.org/facilitate/): The facilitate page aggregates a number of featured resources from our community forum. 
+- [Knowledge Base](https://docs.p2pu.org/): The knowledge base aggregates a number of featured resources from our community forum. 
 - <a href="https://learningcircles.p2pu.org/en/" target="_blank">Facilitator dashboard</a>: The dashboard is where you can create, manage, and share feedback about your learning circles. We also feature up-to-date information from around the community, including links to recent discussion on the forum, an Instagram feed, recently added courses, and a roll of upcoming learning circles worldwide and in your city.
-- [Courses page](https://www.p2pu.org/courses/): The courses page features all the online courses that facilitators have used to facilitate learning circles. This course library is built by the community; any facilitator can add a new online course to the list. 
+- [Learning Resources](https://www.p2pu.org/en/learning-resources/): The learning resources page features all the online courses that facilitators have used to facilitate learning circles. This library is built by the community and moderated by P2PU; any facilitator can add a new resource to the list. 
 - [Blog](https://info.p2pu.org/): The latest updates and information from the P2PU team.
 
 
