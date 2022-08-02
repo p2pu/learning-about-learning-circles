@@ -67,7 +67,7 @@ Once you create a learning circle, we’ll automatically spin up a website for y
 
 ![Sample learning circle signup page](https://community.p2pu.org/uploads/default/original/2X/0/03306f129a415ac4f955cb918c5ae665b6b963e3.png)
 
-You’ll then receive a confirmation email which includes the link to your sign up page and a number of other resources (including [promotional and outreach materials](https://community.p2pu.org/c/learning-circles/promotion-and-outreach) and [a supplies checklist](https://community.p2pu.org/c/learning-circles/creating-a-learning-circle)). If you answered the questions in Step 5, the P2PU Welcome Committee will be copied on this email and someone will reach out to ensure that your concerns are addressed before the learning circle begins. 
+You’ll then receive a confirmation email which includes the link to your sign up page and a number of other resources. If you answered the questions in Step 5, the P2PU Welcome Committee will be copied on this email and someone will reach out to ensure that your concerns are addressed before the learning circle begins. 
 
 You can manage your learning circle at any time <a href="https://learningcircles.p2pu.org/en/" target="_blank">through your facilitator dashboard</a>. From there, you’ll be able to:
 - Edit the learning circle description
