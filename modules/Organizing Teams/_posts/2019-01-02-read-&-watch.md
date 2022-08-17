@@ -11,19 +11,20 @@ Teams offer a way to coordinate and support a group of learning circles that are
 - Is there any information missing from team pages that you’d like to include on yours?
 - Are there any teams that you’d like to reach out to for guidance as you get started?
 
-## Juliana’s organizer guide
-Similar to the [facilitate page](http://p2pu.org/facilitate), P2PU has a webpage for that highlights resources for organizers: [https://www.p2pu.org/en/organize/](https://www.p2pu.org/en/organize/). Here you’ll find resources that you can use to build a team of learning circle facilitators in your area.
 
-Notably, this page is where you can download a copy of <a href="https://learningcircles.p2pu.org/en/get-organizer-guide/" target="_blank">Juliana’s Organizer Guide</a>, a 25 page document that we put together with Juliana Muchai, P2PU’s very first organizer, and her team at the Kenya National Library Service. This guide introduces the six steps to starting a team:
-1. Orient yourself to P2PU
-1. Gather a team
-1. Host a facilitator training workshop
-1. Support your facilitators
-1. Grow your program
-1. Participate in the global P2PU community
+The [Knowledge Base](https://docs.p2pu.org/), P2PU has a category of technical resources for organizers and people who are operating Teams: [About Teams](https://docs.p2pu.org/teams/about-teams). Here you’ll find resources that you can use to build a team of learning circle facilitators in your area. 
 
+1. About Teams
+1. Custom Teams Sites
+1. Organizer Tools
+1. Weekly Summaries
+1. Courses for Teams
+1. Aggregated Data
+1. Facilitator Support
+1. Member Events
 
-<a href="https://learningcircles.p2pu.org/en/get-organizer-guide/" target="_blank">Download your copy of the guide</a>, and spend 15-20 minutes reviewing what’s there.
+Spend 15-20 minutes reviewing what’s there.
+
 ## 🛠️ Setting up a team
 Creating a team will all grant you access to new features on your learning circle facilitator dashboard. This includes:
 - **A dedicated landing page (and memorable URL) for your team.**  This allows you to promote all learning circles across your team with a single URL. (For example, check out [https://sppl.p2pu.org/](https://sppl.p2pu.org/) and [https://berlin.p2pu.org/](https://berlin.p2pu.org/)). 
@@ -32,5 +33,5 @@ Creating a team will all grant you access to new features on your learning circl
 - **Aggregated feedback.** Data from learning circles in your team can be aggregated and shared for evaluation and reporting purposes.
 
 
-Comprehensive and up-to-date details on the technical side of things can be read on the team section of [our Read the Docs](https://learning-circles-user-manual.readthedocs.io/en/latest/index.html).
+Comprehensive and up-to-date details on the technical side of things can be read on the team section of [website](https://www.p2pu.org/en/teams/).
 
