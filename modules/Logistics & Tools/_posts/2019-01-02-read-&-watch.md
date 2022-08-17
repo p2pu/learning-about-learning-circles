@@ -35,11 +35,11 @@ Before you start running learning circles, you may want to run a small outreach 
 ### The Q method
 The Q Method is a participatory public bulletin used to solicit feedback about course topics that people are interested in. It’s named after our friend Qumisha (a.k.a. Q) from Detroit Public Library, who came up with the idea as a way to promote learning circles at her library branch.
 
-![The Q method in action](https://community.p2pu.org/uploads/default/original/1X/833de6b1554b25041b78c207017c36fdbf316714.jpg)
+![The Q method in action](https://docs.p2pu.org/courses/set-your-intent#the-q-method)
 
 As you can see in the example above, the most popular course with 20 votes was Marketing in a Digital World. There was a tie for second place – Introduction to Public Speaking and Social Entrepreneurship 101 both received 16 votes. Based on the results, the Q offered both the marketing and public speaking courses as learning circles.
 
-What’s great about the Q Method is that it both invites community contribution for deciding topics, and serves to promote the program. This concept has been re-used by learning circle facilitators around the world, and can also have applications for other community feedback issues, such as strategic planning, programming decision-making, and understanding community satisfaction and engagement. Our our community forum, you can [download a template](https://community.p2pu.org/t/q-method-for-documenting-community-interests/2699/2) to create your own Q method and see how others have implemented it around the world.
+What’s great about the Q Method is that it both invites community contribution for deciding topics, and serves to promote the program. This concept has been re-used by learning circle facilitators around the world, and can also have applications for other community feedback issues, such as strategic planning, programming decision-making, and understanding community satisfaction and engagement. You can [download a template](https://docs.p2pu.org/courses/set-your-intent#q-method-templates-and-examples) to create your own Q method and see how others have implemented it around the world.
 
 ### Focus groups
 If you want more feedback on program design, you may wish to bring a small group of people together and ask them questions about what they are looking for in learning circles. This is a great way to not only generate data and insight, but also to get to know people and build relationships. In Kenya, libraries run focus groups as part of their learning circle training; we’ve adapted their focus group questions for you [on the forum](https://community.p2pu.org/t/library-patron-focus-group/3129). 
@@ -90,9 +90,8 @@ After each weekly meeting, you can record a weekly reflection on their dashboard
 ### Upon completion
 At the end of a learning circle, learners and facilitators receive an email with a link to a survey that asks everyone to reflect upon the goal they first set, what worked well, what could be improved, and what their next steps will be. 
 
-The responses to the surveys are used to generate a summary of the learning circle, we call this the “learning circle insights” (<a href="https://learningcircles.p2pu.org/en/studygroup/923/report/" target="_blank">here is an example</a>). The learning circle insights are shared with the facilitator, any team organizers, and all the registered learners by email and is made public for other facilitators and learners to see. 
 
-> In the final week of the learning circle, you may wish to give certificates to learners. You can read more about that process, and download a certificate template, [from our community forum.](https://community.p2pu.org/t/certificate-template/2784)
+> In the final week of the learning circle, you may wish to give certificates to learners. You can read more about that process, and download a certificate template, [from our knowledge base.](\https://docs.p2pu.org/facilitation/evaluate-and-reflect?q=Focus+Group#certificates-and-accreditation)
 
 ## Additional readings & resources
 You are, of course, encouraged to utilize whatever existing methodologies you use to identify learner needs and do community outreach, whether that be informal 1-1 discussion at a circulation desk or facilitated workshops. There are a number of resources out there that can help you discover new ways of conducting community outreach. In particular, we recommend:
